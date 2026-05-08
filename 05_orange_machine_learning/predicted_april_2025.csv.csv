@@ -1,0 +1,743 @@
+﻿provider_code,p92_wait_time,pct_change_last_month,waiting_list_change,Random Forest,Treatment_Function,current_pct,total_waiting
+R0A,28.2,-4.298407997,5,1,General Internal Medicine Service,73.7838,370
+R1D,42.6,-10.68895643,-5,1,General Surgery Service,59.5238,42
+R1D,29.8,1.304347826,0,1,Oral Surgery Service,65.6522,230
+R1F,37.2,-3.518250938,18,1,Gastroenterology Service,61.8922,761
+R1F,38.9,15.33180778,7,1,Other - Other Services,63.1579,76
+RA9,39.3,-3.595660915,5,1,Elderly Medicine Service,50.3937,381
+RA9,22.9,3.305995836,8,1,Rheumatology Service,86.1386,707
+RAE,29.9,-4.001301236,-5,1,General Internal Medicine Service,73.5849,53
+RAE,34.9,5.250131253,-6,1,General Surgery Service,60.9715,597
+RAJ,23.9,-1.015051653,-5,1,Elderly Medicine Service,84.4941,761
+RAJ,53.7,-9.090909091,0,1,Neurosurgical Service,23.8636,88
+RAS,NULL,7.142857143,1,1,Plastic Surgery Service,57.1429,7
+RBL,29.5,-0.9068694,18,1,Elderly Medicine Service,78.6207,145
+RBL,37.1,-1.666666667,9,1,General Internal Medicine Service,58.3333,84
+RBN,26.5,-0.498405104,17,1,Other - Other Services,83.7121,264
+RBT,31.9,-3.492063492,-12,1,General Internal Medicine Service,40.9524,105
+RBT,48.2,2.311050394,-42,1,Respiratory Medicine Service,46.7162,807
+RCD,33.6,5.855108315,-83,1,Cardiology Service,75.8028,872
+RCD,42.3,-8.175182482,-22,1,Other - Other Services,40,115
+RCD,24.6,1.509987396,-32,1,Other - Paediatric Services,79.7538,731
+RCF,37.2,0.171701275,-23,1,Gastroenterology Service,67.4091,853
+RCF,NULL,10,4,1,General Internal Medicine Service,60,10
+RCU,49,3.848884381,-9,1,Oral Surgery Service,28.6765,136
+RCX,57.5,2.872421696,9,1,Plastic Surgery Service,53.7815,119
+RD1,23.1,-4.677998894,-15,1,Elderly Medicine Service,72.6368,201
+RDE,30.4,-3.909653749,44,1,Other - Paediatric Services,68.5393,534
+RDE,47.1,7.152971321,-62,1,Plastic Surgery Service,50.7653,392
+RDU,23,-11.47368421,12,1,General Internal Medicine Service,78,50
+REF,26.8,-2.079268293,56,1,Other - Paediatric Services,79.4207,656
+REM,19.9,-2.744168487,20,1,Elderly Medicine Service,88.9435,814
+RFS,35.1,7.669753827,3,1,Respiratory Medicine Service,70.0873,458
+RH5,35.5,-5.905256327,2,1,General Internal Medicine Service,47.8261,69
+RHM,25.5,2.413459216,14,1,Rheumatology Service,81.2233,703
+RHU,48.9,-0.551181102,-13,1,Plastic Surgery Service,50,622
+RHW,25.4,-5.965554539,-72,1,Oral Surgery Service,77.2277,404
+RJ1,32.9,10.42670576,-78,1,Other - Other Services,62.6401,803
+RJ7,37.6,1.719660597,17,1,Cardiothoracic Surgery Service,74.812,266
+RJE,33.3,-3.040212108,-18,1,Cardiothoracic Surgery Service,69.863,292
+RJE,40.3,0.68597561,-25,1,Neurosurgical Service,57.561,615
+RJL,37.4,-6.13183444,8,1,General Internal Medicine Service,72.8155,103
+RJN,45.3,-10.87160262,-20,1,Elderly Medicine Service,27.2727,77
+RJR,27.8,2.840755735,32,1,Other - Other Services,70.3846,260
+RJZ,NULL,-13.33333333,-2,1,Other - Mental Health Services,70,10
+RJZ,38.3,6.618010605,-42,1,Other - Other Services,72.6058,449
+RK5,23,0.757575758,33,1,Plastic Surgery Service,81.8182,165
+RK9,50.3,1.895947823,9,1,Cardiothoracic Surgery Service,46.3793,580
+RKB,37.9,-3.287635179,29,1,Cardiothoracic Surgery Service,66.348,523
+RKB,37.1,5.874887795,82,1,Other - Other Services,61.7978,445
+RKB,48.3,-3.169731149,-4,1,Plastic Surgery Service,47.1121,883
+RL1,NULL,-11.11111111,-5,1,Elderly Medicine Service,88.8889,18
+RL4,27.2,-0.533795646,3,1,Dermatology Service,80.1872,641
+RL4,NULL,13.63636364,-1,1,Other - Other Services,63.6364,11
+RLQ,48.3,5.291005291,-6,1,Cardiothoracic Surgery Service,57.1429,21
+RLQ,39.2,3.345145287,2,1,Elderly Medicine Service,61.1765,85
+RLQ,42,5.090909091,6,1,General Internal Medicine Service,46,50
+RLQ,35.2,-0.796064401,-21,1,General Surgery Service,66.0256,624
+RLQ,37.9,-4.559682575,-8,1,Plastic Surgery Service,42.4171,422
+RM1,44.2,-0.290113113,26,1,Other - Other Services,77.5325,770
+RM3,21.2,-1.378573776,18,1,Elderly Medicine Service,87.1508,358
+RMC,50.3,5.408581001,-71,1,Other - Surgical Services,52.0646,557
+RN3,27.1,-0.67794629,-4,1,Elderly Medicine Service,68.306,183
+RNN,41.5,0.337789055,23,1,Elderly Medicine Service,50.2212,452
+RNS,26.7,-1.102941176,0,1,Other - Paediatric Services,75.9191,544
+RNS,41,-3.699949968,-27,1,Other - Surgical Services,57.5942,823
+RP4,32.2,0.444464198,2,1,Other - Mental Health Services,66.8874,151
+RP4,54.4,2.716981132,3,1,Other - Surgical Services,54.717,53
+RP5,NULL,-75,1,1,Other - Mental Health Services,25,4
+RP5,22,0.032882718,8,1,Other - Paediatric Services,86.5546,238
+RPA,43.4,6.151315789,-8,1,General Internal Medicine Service,73.0263,152
+RPA,32.5,3.461007726,-32,1,General Surgery Service,72.7389,785
+RPY,22.8,-2.950737684,-5,1,General Surgery Service,83.871,124
+RQX,53.3,-9.286522274,-50,1,General Internal Medicine Service,14.1631,466
+RQX,40.2,1.643870314,4,1,Plastic Surgery Service,44.8582,564
+RR8,29,-0.363363052,-31,1,Cardiothoracic Surgery Service,78.5377,424
+RR8,42.3,2.957447103,13,1,Neurosurgical Service,71.5074,544
+RRE,NULL,0,0,1,Elderly Medicine Service,71.4286,14
+RRF,43.6,10.57585825,1,1,Cardiothoracic Surgery Service,55.814,43
+RRJ,38.2,1.947108399,-1,1,General Internal Medicine Service,62.1622,185
+RRK,48,-1.471830261,-65,1,Plastic Surgery Service,49.6241,665
+RTD,30.4,6.234584818,-7,1,Cardiothoracic Surgery Service,79.2683,82
+RTG,36.9,-6.61268556,1,1,Cardiothoracic Surgery Service,51.2821,39
+RTG,46.7,0.542599647,6,1,Neurosurgical Service,45.9574,235
+RTG,31.4,4.586134483,49,1,Plastic Surgery Service,75.1244,402
+RTP,29.9,-3.515360142,-18,1,Elderly Medicine Service,73.5931,231
+RTR,47,3.366058906,-30,1,Oral Surgery Service,40.3226,62
+RVJ,18.8,-1.449860379,11,1,Respiratory Medicine Service,89.895,762
+RVR,38.9,-3.173886128,32,1,General Internal Medicine Service,57.0881,261
+RVV,NULL,-5.555555556,1,1,General Internal Medicine Service,50,10
+RVW,35.5,3.019367872,-7,1,Respiratory Medicine Service,72.2965,823
+RWA,41.4,-6.252995208,7,1,Cardiothoracic Surgery Service,65.3125,320
+RWD,22.1,-2.892392266,58,1,Other - Other Services,87.0466,386
+RWP,NULL,12.72727273,1,1,Plastic Surgery Service,72.7273,11
+RWW,36.7,-4.193722944,2,1,General Surgery Service,60.3896,770
+RWW,31.5,1.182956281,49,1,Rheumatology Service,61.5578,796
+RWY,26.1,-3.780638199,-21,1,Other - Surgical Services,63.5271,499
+RXP,37.5,-0.61169562,-60,1,Oral Surgery Service,49.8361,610
+RXP,30.2,-0.627716348,-3,1,Other - Mental Health Services,74.2475,598
+RXW,27.1,-9.880525687,-115,1,Other - Medical Services,54.1935,155
+RXW,45.4,9.230021499,70,1,Other - Other Services,66.468,671
+RYJ,33.4,4.215357158,62,1,Cardiothoracic Surgery Service,72.5322,466
+RYJ,20.7,-9.275053305,5,1,Oral Surgery Service,83.5821,201
+R0A,43.9,-2.791953401,-14,0,Cardiothoracic Surgery Service,56.1587,958
+R0A,30,2.48349835,51,0,Elderly Medicine Service,67.5,960
+R0A,20.3,2.165492958,-18,0,Neurology Service,85.9155,142
+R0A,23.8,15.41168191,-20,0,Other - Mental Health Services,82.7586,29
+R0B,35.9,2.234002272,-6,0,Other - Surgical Services,68.4211,133
+R0D,20.1,-2.487094265,-37,0,Elderly Medicine Service,89.6648,358
+R0D,25.1,0.257400257,-10,0,General Internal Medicine Service,62.1622,74
+R0D,23.7,4.892503625,-15,0,General Surgery Service,84.3137,918
+R0D,14,0.839905723,-142,0,Other - Other Services,97.6774,775
+R1A,17.2,-3.668993021,26,0,Trauma and Orthopaedic Service,92.9412,85
+R1D,24.2,-1.449875725,3,0,Cardiology Service,66.1972,71
+R1D,37,-0.11529262,-7,0,Ear Nose and Throat Service,47.3595,587
+R1D,25.2,-3.1926694,-2,0,Gynaecology Service,68.5315,143
+R1D,21.2,-3.20855615,5,0,Other - Paediatric Services,90.9091,22
+R1D,46.4,-3.157894737,0,0,Respiratory Medicine Service,33.6842,95
+R1D,NULL,0,3,0,Rheumatology Service,100,5
+R1F,39.4,6.072034467,44,0,Cardiology Service,45.857,881
+R1F,11.5,-1.929824561,8,0,Elderly Medicine Service,94.7368,38
+R1F,NULL,0,2,0,General Internal Medicine Service,100,3
+R1F,41.8,3.451838632,60,0,General Surgery Service,54.2056,856
+R1F,42.2,3.484583518,38,0,Oral Surgery Service,52.3057,759
+R1F,30,-0.908378455,-20,0,Other - Medical Services,78.0172,464
+R1F,NULL,-41.26984127,-2,0,Other - Mental Health Services,14.2857,7
+R1F,35.3,5.178932643,25,0,Respiratory Medicine Service,67.1598,338
+R1F,22.3,-5.099673989,101,0,Rheumatology Service,79.8354,486
+R1F,34.7,1.756535948,45,0,Urology Service,69.6732,765
+R1H,NULL,0,-2,0,Cardiothoracic Surgery Service,100,2
+R1H,31.7,-1.449708068,-23,0,Elderly Medicine Service,70.3125,448
+R1H,34.8,2.954545455,7,0,General Internal Medicine Service,57.5,40
+R1H,38.2,-1.370277841,-48,0,Other - Other Services,67.1171,666
+R1K,10.8,20.08547009,-25,0,Elderly Medicine Service,92.3077,65
+R1K,NULL,16.17647059,-13,0,General Internal Medicine Service,75,4
+R1K,NULL,42.42424242,-15,0,Other - Mental Health Services,100,18
+R1K,NULL,14.28571429,-8,0,Other - Other Services,100,13
+R1K,27.4,-14.16337286,-3,0,Plastic Surgery Service,40.9091,66
+R1K,25,1.028621578,74,0,Rheumatology Service,84.2945,815
+RA2,NULL,0,-3,0,General Internal Medicine Service,100,1
+RA2,36.5,-14.33570054,-102,0,Other - Other Services,70.7285,755
+RA2,26.3,-0.082947374,-50,0,Other - Paediatric Services,68.6828,744
+RA2,14.1,3.438268879,-10,0,Plastic Surgery Service,95.0413,121
+RA2,47.2,-22.5954601,12,0,Respiratory Medicine Service,48.1838,936
+RA2,16.8,0.202537043,-35,0,Rheumatology Service,92.6554,177
+RA7,32,6.482488157,10,0,Cardiothoracic Surgery Service,75.1534,326
+RA7,21.1,1.811170328,-10,0,Elderly Medicine Service,88.4354,147
+RA7,NULL,-13.33333333,-2,0,General Internal Medicine Service,66.6667,3
+RA7,40.8,6.426332288,7,0,General Surgery Service,65.5172,29
+RA7,36.1,-1.05860927,31,0,Neurology Service,65.7188,633
+RA7,19,-1.285714286,-3,0,Other - Mental Health Services,88,25
+RA7,31.7,1.86068388,-84,0,Other - Other Services,77.1838,767
+RA7,37.9,-0.396133463,-184,0,Rheumatology Service,69.5142,597
+RA9,NULL,0,-2,0,Cardiothoracic Surgery Service,100,4
+RA9,50.2,-4.513888889,8,0,General Internal Medicine Service,61.1111,72
+RA9,NULL,0,0,0,General Surgery Service,100,1
+RA9,33.5,-12.93032651,-96,0,Other - Other Services,67.9715,281
+RA9,36.3,-0.369390492,35,0,Other - Paediatric Services,63.2883,888
+RA9,34,7.811194653,-59,0,Plastic Surgery Service,78.5714,112
+RA9,26.5,3.902977649,-36,0,Respiratory Medicine Service,75.3933,890
+RAE,15.5,2.434077079,-10,0,Elderly Medicine Service,96.5517,58
+RAE,31.5,2.880611805,14,0,Neurology Service,60.0854,937
+RAE,27.1,-1.266738005,10,0,Other - Other Services,81.6901,497
+RAE,35,-1.540106952,-10,0,Plastic Surgery Service,56,925
+RAE,21.1,-1.031424716,52,0,Rheumatology Service,88.6447,546
+RAJ,NULL,42.30769231,-11,0,Cardiothoracic Surgery Service,50,2
+RAL,32,5.729246881,22,0,Elderly Medicine Service,75.4967,151
+RAL,38,-4.825035325,-15,0,General Internal Medicine Service,66.9811,212
+RAL,NULL,50,-1,0,Oral Surgery Service,100,1
+RAN,24.8,11.9047619,16,0,Gastroenterology Service,78.5714,28
+RAN,NULL,0,1,0,Other - Mental Health Services,100,2
+RAN,NULL,-16.66666667,-25,0,Other - Other Services,80,5
+RAN,26.9,-0.611269418,33,0,Other - Paediatric Services,78.4585,506
+RAN,NULL,0,1,0,Plastic Surgery Service,100,7
+RAN,23,-5.643044619,35,0,Rheumatology Service,83.3333,162
+RAN,33,4.340770791,2,0,Urology Service,65.5172,87
+RAS,28.8,10.71483712,1,0,Elderly Medicine Service,78.4314,255
+RAS,41.6,0.461135297,83,0,Gastroenterology Service,65.4237,885
+RAS,49.6,-12.06131505,-7,0,General Internal Medicine Service,58.209,67
+RAS,33.5,1.369391109,-30,0,Other - Other Services,68.8919,749
+RAS,31.4,4.697098976,81,0,Other - Paediatric Services,71.25,960
+RAX,NULL,4.166666667,-4,0,Elderly Medicine Service,87.5,8
+RAX,47.5,-2.774895944,-50,0,General Internal Medicine Service,37.3159,611
+RAX,37.8,-4.652397442,-30,0,General Surgery Service,49.1857,921
+RAX,22.4,6.481744858,-7,0,Neurology Service,82.702,792
+RAX,40.5,3.884202853,2,0,Other - Other Services,61.6162,99
+RAX,22.8,3.274171962,27,0,Plastic Surgery Service,78.1473,421
+RAX,41.9,-26.61931954,7,0,Respiratory Medicine Service,53.527,964
+RAX,12.7,3.161605904,-53,0,Rheumatology Service,99.2048,503
+RBD,27.7,-2.072647763,-2,0,Cardiology Service,73.003,989
+RBD,24.7,1.363636364,6,0,Elderly Medicine Service,69.697,66
+RBD,NULL,83.33333333,-8,0,General Internal Medicine Service,100,4
+RBD,NULL,0,2,0,Other - Other Services,100,3
+RBD,33.4,0.647214475,-19,0,Other - Paediatric Services,63.9241,158
+RBD,25.1,10.5620155,-86,0,Respiratory Medicine Service,85.2713,258
+RBK,26.6,-1.793224129,73,0,Dermatology Service,73.0143,982
+RBK,12.7,0.428340706,-40,0,Elderly Medicine Service,99.0099,101
+RBK,22.7,-8.01193678,55,0,Neurology Service,76.7802,969
+RBK,25.2,-5.92917123,-2,0,Other - Other Services,65.7576,330
+RBK,35.3,-1.278890601,8,0,Plastic Surgery Service,55.0847,118
+RBK,17.8,-3.320906692,36,0,Respiratory Medicine Service,92.5759,889
+RBK,28.2,4.019309316,-34,0,Rheumatology Service,74.1162,792
+RBL,28.5,4.709789565,-16,0,General Surgery Service,84.345,313
+RBN,25.3,1.802007039,-94,0,Elderly Medicine Service,85.3755,253
+RBN,19.8,0.194805195,-90,0,General Internal Medicine Service,90.9091,330
+RBN,41.9,0.652173913,-6,0,Neurosurgical Service,55,40
+RBQ,45.3,0.072635687,15,0,Cardiothoracic Surgery Service,55.9905,843
+RBQ,22.7,-6.401837644,-4,0,Respiratory Medicine Service,82.5429,991
+RBT,22,-2.476190476,4,0,Elderly Medicine Service,88,25
+RBT,10.9,10.18760616,-90,0,Other - Other Services,99.6689,604
+RBV,13.6,0.138888889,3,0,Gynaecology Service,97.9167,48
+RBV,20.1,-3.933747412,-14,0,Other - Surgical Services,90.4762,147
+RBV,15.9,-1.003153331,-21,0,Plastic Surgery Service,93.4884,215
+RBV,22.2,-2.923976608,0,0,Urology Service,85.9649,171
+RC9,38,-1.534643637,49,0,Elderly Medicine Service,64.4928,414
+RCB,15,-2.057749751,7,0,Elderly Medicine Service,95.6522,138
+RCB,NULL,0,-1,0,General Internal Medicine Service,100,6
+RCB,22.5,-16.41025641,-49,0,General Surgery Service,76.9231,26
+RCB,24.6,-10.57530705,-6,0,Other - Other Services,72.9412,85
+RCB,36.6,9.152348225,14,0,Plastic Surgery Service,68.0412,194
+RCB,25.8,7.242168045,56,0,Rheumatology Service,83.9793,387
+RCD,19.5,-1.23655914,2,0,Elderly Medicine Service,87.0968,62
+RCD,28.6,5.336876639,11,0,Gastroenterology Service,70.0357,841
+RCD,34.3,-1.589098089,-119,0,Neurology Service,57.1839,696
+RCD,32.4,4.703196347,-56,0,Oral Surgery Service,71.3699,730
+RCD,22.5,4.500238525,-16,0,Other - Medical Services,84.7023,974
+RCD,31.8,4.53681604,26,0,Other - Surgical Services,71.7477,761
+RCD,26,-0.726010101,-9,0,Respiratory Medicine Service,76.0417,288
+RCD,21.8,2.324737458,11,0,Rheumatology Service,87.1314,373
+RCF,11.8,-3.846153846,-3,0,Dermatology Service,96.1538,52
+RCF,32.4,4.674824954,41,0,Ear Nose and Throat Service,78.9157,996
+RCF,33.6,2.126245847,8,0,Elderly Medicine Service,90.6977,43
+RCF,20.1,-2.771836007,105,0,Ophthalmology Service,89.8039,765
+RCF,20.8,-0.661375661,35,0,Oral Surgery Service,89.2857,224
+RCF,37.5,7.023490931,-20,0,Other - Paediatric Services,77.193,570
+RCF,31.1,-1.229508197,-3,0,Other - Surgical Services,73.7705,61
+RCF,40.3,10.71428571,-15,0,Plastic Surgery Service,79.0476,105
+RCF,32.1,7.999014702,-97,0,Respiratory Medicine Service,78.839,534
+RCF,22.3,-2.46269366,19,0,Rheumatology Service,82.9341,334
+RCX,NULL,0,-1,0,Cardiothoracic Surgery Service,100,1
+RCX,19.2,-1.978319783,-8,0,Elderly Medicine Service,90.2439,82
+RCX,37.9,-1.050420168,57,0,General Internal Medicine Service,79.902,204
+RCX,47.3,-2.934849297,11,0,Oral Surgery Service,61.2086,513
+RCX,31.4,-0.079124201,-4,0,Other - Other Services,69.2042,289
+RCX,22.4,-0.391666667,-50,0,Other - Paediatric Services,85.7333,750
+RCX,47.1,1.68582207,28,0,Rheumatology Service,46.3547,919
+RD1,10.4,-1.063829787,7,0,General Internal Medicine Service,98.9362,94
+RD1,11.1,-1.445447764,75,0,Other - Other Services,98.3687,613
+RD1,16.8,-1.698447431,26,0,Respiratory Medicine Service,95.2381,483
+RD8,22.6,-3.479042766,-43,0,Dermatology Service,88.9031,784
+RD8,NULL,14.28571429,2,0,Elderly Medicine Service,100,9
+RD8,16.9,-2.689753321,7,0,General Internal Medicine Service,95.2941,255
+RD8,31.1,7.270087034,-30,0,Neurology Service,82.6367,311
+RD8,16.6,-1.569950517,41,0,Other - Other Services,97.6608,171
+RD8,50.3,0.388429752,-66,0,Other - Paediatric Services,45.6612,484
+RD8,49.1,-2.296510654,-79,0,Rheumatology Service,26.1139,808
+RDE,NULL,0,6,0,Cardiothoracic Surgery Service,100,7
+RDE,10.9,2.359004857,6,0,Elderly Medicine Service,99.435,177
+RDE,22.5,-7.456828885,28,0,General Internal Medicine Service,75.5102,392
+RDE,NULL,-41.66666667,1,0,Other - Mental Health Services,25,4
+RDE,45.1,2.872564508,31,0,Other - Other Services,80.0948,211
+RDE,7.2,2.642530171,19,0,Other - Surgical Services,98.1481,108
+RDR,23.7,5.167203868,10,0,Other - Surgical Services,89.726,146
+RDR,17.6,0.679227825,49,0,Rheumatology Service,93.0521,403
+RDU,14.9,3.325123153,-1,0,Elderly Medicine Service,96.4286,28
+RDU,43.6,3.389550928,-22,0,Other - Other Services,58.6934,949
+RDU,46.4,4.803060603,48,0,Other - Paediatric Services,32.4528,265
+RDU,24.2,2.519402519,-27,0,Rheumatology Service,83.1832,666
+REF,23,3.781805845,-31,0,Elderly Medicine Service,83.1435,439
+REF,24.7,0.061294212,27,0,Other - Other Services,86.7708,960
+REF,40.3,-0.835654596,0,0,Respiratory Medicine Service,59.8886,718
+REF,15.5,-1.02752415,27,0,Rheumatology Service,95.4876,687
+REM,27,-4.229177016,7,0,General Internal Medicine Service,66.2626,495
+REM,44.9,1.362217934,24,0,Other - Paediatric Services,43.2177,951
+REM,42,-12.92087862,-13,0,Plastic Surgery Service,19.2825,223
+REM,22.7,0.939596523,51,0,Rheumatology Service,79.9342,608
+REN,15.9,-0.350496278,41,0,Other - Medical Services,96.5726,496
+REN,14.7,0.325087712,61,0,Other - Other Services,97.6285,506
+RET,NULL,7.692307692,-1,0,Ophthalmology Service,100,12
+RET,NULL,0,-9,0,Other - Mental Health Services,100,7
+RET,47.2,-6.697737398,-37,0,Other - Surgical Services,38.4201,557
+RF4,21.1,-8.19047619,-28,0,Elderly Medicine Service,80.9524,147
+RF4,NULL,0,1,0,General Internal Medicine Service,100,4
+RF4,35.7,1.735368231,143,0,Other - Other Services,80.4878,656
+RF4,19.7,-3.355388206,-22,0,Other - Paediatric Services,87.8652,445
+RF4,20,-3.083071653,33,0,Rheumatology Service,89.2473,372
+RFF,16.3,-0.980737609,26,0,Elderly Medicine Service,94.9495,198
+RFF,21.3,-2.462380301,-9,0,General Internal Medicine Service,88.2353,34
+RFF,17.8,-3.635626827,-14,0,Other - Other Services,92.7374,179
+RFF,19.6,0.354470693,49,0,Other - Paediatric Services,88.2567,826
+RFF,18.3,-4.013244131,93,0,Respiratory Medicine Service,91.433,642
+RFF,15.2,3.865696804,42,0,Rheumatology Service,96.4856,313
+RFR,10.9,0,7,0,Elderly Medicine Service,100,69
+RFR,16.5,0,2,0,General Internal Medicine Service,100,31
+RFR,18.8,6.984660025,8,0,Other - Medical Services,90.6951,892
+RFR,16.4,7.753867059,9,0,Other - Paediatric Services,97.4886,876
+RFR,21.7,2.823900266,-22,0,Rheumatology Service,83.8863,844
+RFS,36.6,0.518607886,-7,0,General Internal Medicine Service,68.7135,342
+RFS,41.4,1.956735273,10,0,Rheumatology Service,52.7404,967
+RGM,31.7,3.03572703,-26,0,Cardiothoracic Surgery Service,70.639,579
+RGN,29.5,1.692081327,-69,0,Elderly Medicine Service,74.9064,267
+RGN,NULL,0,-3,0,General Internal Medicine Service,100,3
+RGN,NULL,0,-6,0,Other - Mental Health Services,100,5
+RGN,40.4,7.502766219,149,0,Other - Other Services,55.8589,879
+RGN,11,-0.321903015,-98,0,Other - Surgical Services,96.4384,365
+RGP,27.1,-5.531914894,-8,0,Elderly Medicine Service,74.4681,47
+RGP,38.3,-15.98087511,1,0,General Internal Medicine Service,44.1176,204
+RGP,42.5,-3.985209184,34,0,Oral Surgery Service,45.8468,927
+RGP,27.5,-6.588472079,20,0,Other - Medical Services,74.9601,627
+RGP,NULL,0,0,0,Other - Other Services,100,1
+RGP,54.7,5.226181301,-35,0,Plastic Surgery Service,47.3054,167
+RGP,19.1,-2.502297307,28,0,Rheumatology Service,91.1854,329
+RGR,NULL,8.888888889,6,0,Elderly Medicine Service,86.6667,15
+RGR,33.5,-4.755583999,52,0,General Internal Medicine Service,62.7371,738
+RGR,NULL,0,0,0,Other - Mental Health Services,12.5,8
+RGR,49.4,1.09009009,-2,0,Other - Other Services,31.7568,148
+RGR,21,2.956694873,42,0,Rheumatology Service,89.8955,287
+RGT,19.5,-0.594405594,-21,0,Elderly Medicine Service,88.6364,44
+RGT,56.2,-2.067908084,22,0,General Internal Medicine Service,39.028,679
+RGT,41.2,-13.75661376,-6,0,Other - Mental Health Services,38.0952,21
+RGT,37.8,3.116680154,103,0,Other - Other Services,73.6064,879
+RGT,19.5,3.46197762,-57,0,Respiratory Medicine Service,89.6689,755
+RH5,35.9,2.5,0,0,Cardiothoracic Surgery Service,62.5,40
+RH5,37.9,-1.263537906,0,0,Elderly Medicine Service,72.0217,554
+RH5,32.9,7.840258406,-8,0,Plastic Surgery Service,69.0647,139
+RH5,32,-1.909527856,-32,0,Rheumatology Service,65.9176,801
+RH8,NULL,0,0,0,Cardiothoracic Surgery Service,100,1
+RH8,18.8,4.539951574,26,0,Elderly Medicine Service,90.2542,236
+RH8,36.2,6.492248062,-44,0,General Internal Medicine Service,77.3256,172
+RH8,30.1,1.289137727,80,0,Rheumatology Service,80.0322,621
+RHM,21.2,5.140593294,27,0,Elderly Medicine Service,89.8734,158
+RHM,31,1.428571429,-7,0,General Internal Medicine Service,71.4286,63
+RHM,20.5,1.859724906,-12,0,Other - Other Services,90.2808,463
+RHQ,18.9,1.220125786,-5,0,Cardiothoracic Surgery Service,89.3333,525
+RHQ,13,5.172413793,5,0,Elderly Medicine Service,100,63
+RHU,9.3,0.5702067,-15,0,Elderly Medicine Service,95.6522,46
+RHU,NULL,0,0,0,General Internal Medicine Service,100,1
+RHU,20.4,-0.080594185,-5,0,Other - Paediatric Services,90.8929,560
+RHU,48.6,5.181412312,-39,0,Other - Surgical Services,36.8421,798
+RHU,17.1,-1.552923149,-35,0,Respiratory Medicine Service,94.3452,672
+RHU,7.4,0.380276658,12,0,Rheumatology Service,99.6503,286
+RHW,27.5,-1.299053473,80,0,Other - Other Services,73.4114,598
+RHW,29.3,-15.01831502,-5,0,Other - Surgical Services,61.9048,21
+RHW,26.1,-0.094507691,-15,0,Plastic Surgery Service,78.0405,296
+RHW,21.7,-3.082087275,35,0,Rheumatology Service,82.7586,261
+RJ1,32.6,-10.13412817,-6,0,Cardiothoracic Surgery Service,63.6364,55
+RJ1,22.3,-4.216672933,83,0,Elderly Medicine Service,83.6972,687
+RJ1,23,4.141797793,-6,0,General Internal Medicine Service,84.2105,285
+RJ1,37.5,4.766620099,-29,0,General Surgery Service,74.6803,782
+RJ1,32.7,12.5,4,0,Other - Mental Health Services,62.5,32
+RJ1,11.6,0.00498132,-90,0,Rheumatology Service,98.9091,275
+RJ2,13.8,1.16108453,16,0,Elderly Medicine Service,97.3333,225
+RJ2,NULL,0.784313725,-13,0,Other - Other Services,94.1176,17
+RJ2,NULL,40,-7,0,Plastic Surgery Service,100,8
+RJ6,16.3,1.452478283,-64,0,Cardiology Service,95.2632,760
+RJ6,18.9,-2.954327691,16,0,Elderly Medicine Service,90.5941,202
+RJ6,13.2,0,0,0,General Internal Medicine Service,100,22
+RJ6,16.8,2.281204512,47,0,Neurology Service,94.4687,687
+RJ6,30.9,-4.557223152,27,0,Other - Paediatric Services,73.1419,592
+RJ6,42.9,11.32452981,2,0,Plastic Surgery Service,72.549,51
+RJ6,30.1,2.192880197,10,0,Rheumatology Service,66.6328,983
+RJ7,19.2,0.362318841,2,0,Elderly Medicine Service,91.6667,48
+RJ7,34.7,0.966183575,16,0,General Internal Medicine Service,69.4444,108
+RJ7,26.2,10.72708114,8,0,Ophthalmology Service,75.3425,73
+RJ8,10.1,1.499466775,99,0,Other - Medical Services,99.7389,383
+RJ8,9.4,0.04626952,4,0,Trauma and Orthopaedic Service,98.9474,95
+RJC,14,0.083333333,4,0,Elderly Medicine Service,98,100
+RJC,17.8,0.852514919,10,0,General Internal Medicine Service,92.1569,102
+RJC,10.8,0.850304489,39,0,Other - Other Services,97.7199,614
+RJC,48,-0.687998962,-8,0,Other - Paediatric Services,62.6761,426
+RJC,32,0.924779978,-15,0,Plastic Surgery Service,58.6806,288
+RJC,25.7,-0.822582554,-21,0,Rheumatology Service,85.2941,476
+RJE,14.3,0,4,0,Elderly Medicine Service,100,37
+RJE,35.8,0.983090484,-13,0,Other - Other Services,71.8654,327
+RJE,35.4,-5.067567568,-5,0,Other - Surgical Services,62.5,32
+RJE,NULL,5.714285714,2,0,Rheumatology Service,85.7143,7
+RJL,NULL,-50,0,0,Cardiothoracic Surgery Service,50,2
+RJL,16.9,0.719734146,-4,0,Elderly Medicine Service,93.7238,239
+RJL,29.3,-5.249107484,-10,0,Other - Other Services,74.3952,496
+RJL,40,0.268258966,38,0,Other - Paediatric Services,47.8382,717
+RJL,23.6,-0.140169337,-8,0,Other - Surgical Services,86.5613,759
+RJL,NULL,-5,-1,0,Plastic Surgery Service,75,4
+RJL,34.3,1.21144473,63,0,Rheumatology Service,56.3441,930
+RJN,44.3,-0.025295378,16,0,Cardiology Service,45.1397,895
+RJN,10,54.5112782,17,0,General Internal Medicine Service,97.3684,38
+RJN,35.6,-0.291013334,72,0,Other - Medical Services,74.5342,644
+RJN,NULL,0,0,0,Other - Other Services,100,1
+RJN,40.8,2.881698686,6,0,Other - Paediatric Services,58.6957,92
+RJN,40,1.538415462,51,0,Other - Surgical Services,60.091,659
+RJN,28.6,-3.80952381,7,0,Plastic Surgery Service,76.1905,42
+RJN,33.5,0.420539805,7,0,Respiratory Medicine Service,56.9848,723
+RJR,26.8,1.586956522,-7,0,Elderly Medicine Service,75.5,200
+RJR,NULL,-16.2962963,-49,0,General Internal Medicine Service,80,5
+RJR,48.6,0.527074889,25,0,Rheumatology Service,46.0641,686
+RJZ,38,-17.43714517,-2,0,Cardiothoracic Surgery Service,55.5556,135
+RJZ,21.8,-1.597542243,25,0,Ear Nose and Throat Service,85.7143,490
+RJZ,17.4,3.171182266,-42,0,Elderly Medicine Service,93.3498,406
+RJZ,18.7,1.986222732,-29,0,General Internal Medicine Service,90.4478,335
+RJZ,49.8,-10.03773585,3,0,Plastic Surgery Service,33.9623,53
+RK5,15.5,-1.206237129,-4,0,Elderly Medicine Service,93.9394,99
+RK5,47,2.002444351,59,0,Oral Surgery Service,57.2165,970
+RK5,23.9,2.105131471,62,0,Other - Paediatric Services,84.4327,758
+RK5,30.3,-4.935257122,-11,0,Other - Surgical Services,69.1824,159
+RK5,17.7,-2.170825725,39,0,Rheumatology Service,92.4528,318
+RK9,53.3,6.954225352,7,0,Elderly Medicine Service,50.7042,71
+RK9,20.9,-14.9859944,8,0,General Internal Medicine Service,76.1905,42
+RK9,15.2,0,-6,0,General Surgery Service,100,20
+RK9,31.1,-0.349480618,7,0,Other - Other Services,83.5966,823
+RK9,23.8,-3.38356974,-12,0,Rheumatology Service,79.2553,564
+RKB,15.1,-1.537978657,10,0,Elderly Medicine Service,96.6102,118
+RKB,25.9,2.806101556,8,0,Rheumatology Service,78.8288,888
+RKE,30.3,1.496957468,200,0,Ear Nose and Throat Service,53.4538,941
+RKE,16.1,-3.464977645,-10,0,Elderly Medicine Service,94.2623,122
+RKE,59.6,-2.463408583,12,0,General Internal Medicine Service,32.069,290
+RKE,44.3,-1.21594637,-14,0,Oral Surgery Service,27.439,328
+RKE,43.6,-1.253687316,-10,0,Plastic Surgery Service,41.6667,216
+RKE,20.5,2.392069893,-165,0,Respiratory Medicine Service,86.8771,602
+RKE,15.8,3.300948512,-33,0,Rheumatology Service,96.2457,293
+RL1,34.7,-5.727679421,-4,0,Neurology Service,60.049,408
+RL1,35.2,-15.60283688,-1,0,Other - Medical Services,51.0638,47
+RL1,34.7,2.498453927,62,0,Other - Other Services,67.3469,392
+RL4,11.1,-0.076844262,-3,0,Elderly Medicine Service,98.3607,61
+RL4,37.5,0,0,0,General Internal Medicine Service,52.6316,76
+RL4,38.7,8.224765615,-19,0,Plastic Surgery Service,61.6279,172
+RLQ,32.8,2.043730524,-6,0,Dermatology Service,68.8458,979
+RLQ,30.7,-5.120910384,8,0,Neurology Service,64.4737,304
+RLQ,54.5,0.025185348,-23,0,Oral Surgery Service,48.5149,606
+RLQ,NULL,0,0,0,Other - Other Services,100,1
+RLQ,30,-0.442233278,12,0,Other - Paediatric Services,73.6318,201
+RLQ,39.2,0.022645911,-29,0,Respiratory Medicine Service,62.8483,969
+RLQ,35.7,3.427245991,41,0,Rheumatology Service,67.4589,547
+RLT,20.7,0.761989401,-1,0,Cardiology Service,88.2114,246
+RLT,18.7,-1.035625518,3,0,Elderly Medicine Service,90.1408,71
+RLT,21.3,-2.273224044,-42,0,Gastroenterology Service,83.0601,183
+RLT,NULL,-11.03896104,-3,0,Oral Surgery Service,81.8182,11
+RLT,22.5,9.037814167,-127,0,Other - Medical Services,85.6448,822
+RLT,19.3,-3.204689659,46,0,Other - Paediatric Services,89.2256,297
+RLT,26.1,-1.524122807,90,0,Other - Surgical Services,83.6842,570
+RLT,51.9,-1.033868093,-9,0,Plastic Surgery Service,47.451,255
+RLT,NULL,0,1,0,Respiratory Medicine Service,100,2
+RLT,12.6,-0.071945219,-4,0,Rheumatology Service,94.9458,277
+RM1,8.2,4.347826087,-2,0,Elderly Medicine Service,100,44
+RM1,24.4,1.624895941,25,0,Rheumatology Service,85.0433,809
+RM3,NULL,0,0,0,Cardiothoracic Surgery Service,100,3
+RM3,24.7,5.639097744,4,0,General Internal Medicine Service,71.4286,42
+RM3,37.8,0.738738739,-1,0,Other - Other Services,55.4054,74
+RMC,45.8,-16.95238095,-4,0,Cardiothoracic Surgery Service,19.0476,21
+RMC,18.3,-7.166399849,28,0,Elderly Medicine Service,91.2892,287
+RMC,27.7,-5.753968254,17,0,General Internal Medicine Service,62.5,80
+RMC,26.3,0.594190141,7,0,Neurology Service,80.2817,71
+RMC,NULL,-11.9047619,-8,0,Other - Other Services,16.6667,6
+RMC,55.4,-0.82189838,-38,0,Other - Paediatric Services,41.4566,357
+RMC,53.7,-0.030802862,11,0,Plastic Surgery Service,38.125,640
+RMC,28.8,14.58712716,-112,0,Rheumatology Service,73.1429,525
+RMP,23,-2.362186454,46,0,Cardiology Service,81.4443,997
+RMP,NULL,-40,3,0,Cardiothoracic Surgery Service,60,5
+RMP,17.5,2.114164905,6,0,Dermatology Service,93.0233,215
+RMP,NULL,1.666666667,2,0,Elderly Medicine Service,91.6667,12
+RMP,19.1,21.66666667,4,0,General Internal Medicine Service,91.6667,24
+RMP,14.1,0,3,0,Ophthalmology Service,100,36
+RMP,29.4,-8.382979121,-3,0,Respiratory Medicine Service,66.9219,653
+RMP,17.8,-2.318411641,12,0,Rheumatology Service,92.4528,318
+RMP,13.6,-0.450880427,28,0,Urology Service,96.7413,491
+RN3,27.5,-3.092152021,23,0,Other - Other Services,73.6659,862
+RN3,33.5,4.606143971,-23,0,Other - Surgical Services,71.9395,727
+RN3,55.2,-0.520769136,-22,0,Plastic Surgery Service,61.8852,244
+RN3,46.5,3.486743839,8,0,Respiratory Medicine Service,53.3654,832
+RN3,26.5,6.033127456,14,0,Rheumatology Service,87.9562,274
+RN5,NULL,50,-1,0,Cardiothoracic Surgery Service,100,1
+RN5,17.5,2.135547201,11,0,Elderly Medicine Service,92.3611,144
+RN5,21.3,0.871609348,10,0,General Internal Medicine Service,88.1226,261
+RN5,40.7,-3.188405797,-1,0,Other - Other Services,53.3333,45
+RN7,35.5,-1.853843947,-5,0,Elderly Medicine Service,64.5833,576
+RN7,37.3,-0.829484002,-55,0,Neurology Service,63.8393,896
+RN7,26.1,-3.188164439,30,0,Other - Medical Services,76.2673,434
+RN7,21.1,-9.31372549,16,0,Other - Other Services,83.3333,84
+RN7,18.5,-1.719139917,61,0,Other - Paediatric Services,91.206,796
+RN7,24.9,0.669144981,-18,0,Other - Surgical Services,80.6691,807
+RNA,17.4,-4.019688269,21,0,Elderly Medicine Service,93.0818,159
+RNA,NULL,0,1,0,General Internal Medicine Service,100,2
+RNA,30.3,7.269730203,55,0,Respiratory Medicine Service,82.3596,890
+RNA,33,3.688454249,10,0,Rheumatology Service,67.4232,749
+RNN,50.2,-7.301641587,-7,0,General Internal Medicine Service,58.1395,129
+RNN,42.5,-1.467867705,-1,0,General Surgery Service,49.7467,987
+RNN,31.7,3.352592537,-8,0,Oral Surgery Service,70.2591,965
+RNN,17.7,0.496111558,75,0,Other - Paediatric Services,92.9204,339
+RNN,35.5,4.076001211,-93,0,Respiratory Medicine Service,60.2961,743
+RNQ,16.5,-1.988304094,9,0,Elderly Medicine Service,93.3333,180
+RNQ,31.2,-0.291972617,78,0,Gastroenterology Service,63.2997,891
+RNQ,31.1,-0.391773768,-12,0,Neurology Service,73.743,537
+RNQ,17.4,11.93181818,10,0,Other - Other Services,93.75,32
+RNQ,28,5.587365654,-12,0,Other - Paediatric Services,80.4196,286
+RNQ,34.3,9.334498325,-17,0,Plastic Surgery Service,63.3028,109
+RNQ,34.7,1.082219335,6,0,Respiratory Medicine Service,57.6531,980
+RNQ,27.5,-1.962499635,28,0,Rheumatology Service,74.8491,994
+RNS,22.4,-2.5,4,0,Cardiothoracic Surgery Service,85,20
+RNS,35,8.644147314,-11,0,Elderly Medicine Service,77.0115,87
+RNS,18.4,4.822292206,47,0,General Internal Medicine Service,91.587,523
+RNS,24,5.421697669,31,0,Other - Other Services,86.4943,348
+RNS,46.3,-2.13649283,8,0,Plastic Surgery Service,33.7017,181
+RNS,17.5,0.036389832,-12,0,Rheumatology Service,92.7978,361
+RNZ,54.3,2.5200046,-115,0,Dermatology Service,9.5729,679
+RNZ,27.6,4.49869603,-6,0,Elderly Medicine Service,78.4483,232
+RNZ,NULL,8.974358974,-5,0,General Internal Medicine Service,92.3077,13
+RNZ,18.2,14.74358974,-17,0,Other - Mental Health Services,91.6667,48
+RNZ,18.9,8.961949164,-22,0,Other - Other Services,90.4486,691
+RNZ,37,-1.734354676,2,0,Other - Paediatric Services,60.4278,187
+RNZ,49.4,-3.341665808,18,0,Rheumatology Service,39.6629,890
+RP4,34.7,-5.228031146,-4,0,Other - Other Services,68.9655,58
+RP5,21.6,-0.332674572,-13,0,Elderly Medicine Service,85.8333,240
+RP5,20.4,2.792207792,-18,0,General Internal Medicine Service,91.4286,70
+RP5,39.3,-0.206875151,8,0,Other - Other Services,57.5251,299
+RP5,32.7,-11.69396068,-2,0,Rheumatology Service,58.2653,980
+RP7,11.7,0,39,0,Other - Mental Health Services,100,58
+RPA,30.6,-6.87426557,18,0,Elderly Medicine Service,78.2609,92
+RPA,11.7,-1.054001301,-14,0,Other - Other Services,95.1724,145
+RPA,NULL,-5.526315789,-1,0,Other - Paediatric Services,89.4737,19
+RPC,38.4,-3.033088235,-12,0,Cardiology Service,56.7708,192
+RPC,26.1,12.95698925,-11,0,Ear Nose and Throat Service,86.2903,124
+RPC,18.8,-3.021978022,2,0,Other - Medical Services,89.2857,28
+RPC,31,-6.799450549,8,0,Other - Paediatric Services,50.8929,112
+RPC,NULL,0,0,0,Other - Surgical Services,100,1
+RPC,32.1,8.035714286,-8,0,Respiratory Medicine Service,68.75,48
+RPC,15.7,9.075439592,-2,0,Rheumatology Service,95.122,41
+RPY,NULL,13.33333333,2,0,Dermatology Service,100,17
+RPY,10.9,3.617810761,-5,0,Gastroenterology Service,95.4545,44
+RPY,23.7,0.078814628,-18,0,Oral Surgery Service,89.4231,104
+RPY,12.2,0.220232582,-17,0,Other - Medical Services,96.4228,615
+RPY,16.5,2.323728687,7,0,Other - Other Services,93.7838,370
+RPY,NULL,6.666666667,4,0,Other - Paediatric Services,90,10
+RPY,16.3,-1.507556348,-9,0,Other - Surgical Services,92.9078,564
+RPY,28.2,-12.5,0,0,Plastic Surgery Service,70.8333,48
+RPY,12.4,4.623530931,2,0,Urology Service,98.8764,89
+RQM,22.6,NULL,NULL,0,Cardiology Service,82.5027,943
+RQM,22.2,-3.271889401,7,0,Elderly Medicine Service,83.871,217
+RQM,24.3,-5.525846702,1,0,General Internal Medicine Service,82.3529,34
+RQW,19,20.76813656,-1,0,Elderly Medicine Service,89.1892,37
+RQX,16.1,2.958353802,11,0,Elderly Medicine Service,95.4315,197
+RQX,19.4,2.009995654,8,0,Gastroenterology Service,89.8305,944
+RQX,15.9,0.923371225,48,0,Neurology Service,94.4193,663
+RQX,8.8,-4.651162791,21,0,Ophthalmology Service,95.3488,43
+RQX,41,-11.43282194,-14,0,Other - Other Services,19.1111,225
+RQX,8.2,-0.559675265,19,0,Other - Surgical Services,99.1354,347
+RQX,18.7,-0.715147426,51,0,Respiratory Medicine Service,90.7828,792
+RQX,8.3,0.137791287,34,0,Rheumatology Service,99.4286,175
+RR7,29.7,-4.465519731,-23,0,Elderly Medicine Service,68.7646,429
+RR7,23.8,-1.294857566,2,0,General Internal Medicine Service,83.0189,53
+RR7,20.4,-14.07060552,-22,0,Other - Mental Health Services,84.6715,137
+RR7,40,-2.168458781,17,0,Other - Other Services,69.4444,792
+RR7,NULL,7.352941176,1,0,Other - Surgical Services,82.3529,17
+RR7,23.7,0.625126362,57,0,Respiratory Medicine Service,83.705,583
+RR7,26.6,-5.478778468,-8,0,Rheumatology Service,66.4855,552
+RR8,4.9,0,19,0,Elderly Medicine Service,100,40
+RRE,34,4.955482662,-9,0,Neurology Service,53.4091,88
+RRE,21.8,-8.518518519,9,0,Other - Medical Services,75.9259,54
+RRF,29.9,4.601165932,-21,0,Elderly Medicine Service,66.1538,520
+RRF,26.4,3.623755334,-33,0,General Internal Medicine Service,80.9211,152
+RRF,NULL,-2.097902098,2,0,Neurosurgical Service,61.5385,13
+RRJ,27.3,-5.355590332,-32,0,Other - Medical Services,58.0247,891
+RRJ,19.8,-0.82408578,-35,0,Other - Other Services,89.9471,756
+RRK,28.4,0.124240021,1,0,Cardiothoracic Surgery Service,75.8974,195
+RRK,15,2.303069677,27,0,Elderly Medicine Service,98.4733,262
+RRK,18,1.809860874,-142,0,General Internal Medicine Service,92.0588,340
+RRK,25,-10.06237006,-28,0,Other - Mental Health Services,83.7838,37
+RRK,21.1,1.496894582,34,0,Rheumatology Service,88.1935,703
+RRV,22.6,4.086066723,7,0,Cardiothoracic Surgery Service,89.4309,123
+RRV,20.1,-0.204081633,-1,0,Elderly Medicine Service,89.7959,49
+RRV,NULL,30.76923077,-13,0,General Surgery Service,69.2308,13
+RRV,36.8,5.153868277,-40,0,Other - Mental Health Services,68.5965,570
+RRV,35.3,-0.384868112,-9,0,Respiratory Medicine Service,76.7296,795
+RT1,67,6.384479718,9,0,Other - Other Services,43.2099,324
+RTD,16.5,-1.672450357,-45,0,Elderly Medicine Service,94.2982,228
+RTD,23.6,-7.587964025,-8,0,General Internal Medicine Service,80.839,882
+RTD,35.8,0.774066833,-84,0,General Surgery Service,79.2873,898
+RTD,NULL,0,-15,0,Other - Mental Health Services,100,1
+RTE,NULL,0,2,0,Cardiothoracic Surgery Service,100,13
+RTE,21.3,-0.523952096,-30,0,Elderly Medicine Service,87.5,304
+RTE,26.3,1.878919849,-12,0,General Internal Medicine Service,85.9779,271
+RTE,NULL,11.05263158,-9,0,General Surgery Service,90,10
+RTE,13.4,0.117656711,-28,0,Other - Other Services,96.0969,743
+RTF,15.9,-0.16681321,25,0,Elderly Medicine Service,99.2095,506
+RTF,NULL,0,0,0,Neurology Service,100,1
+RTF,17.7,2.26910202,-25,0,Rheumatology Service,92.7928,777
+RTG,20,7.103262591,-23,0,Elderly Medicine Service,88.6364,264
+RTG,NULL,0,2,0,General Internal Medicine Service,100,5
+RTH,18.6,-2.805238699,7,0,Elderly Medicine Service,91.1111,270
+RTH,46.1,-2.612226483,-12,0,General Internal Medicine Service,41.2587,143
+RTK,NULL,0,1,0,Cardiothoracic Surgery Service,100,2
+RTK,17,2.635346756,-1,0,Elderly Medicine Service,95.302,149
+RTK,23,6.320836966,-13,0,General Internal Medicine Service,75.6757,111
+RTK,40.4,1.879612546,-17,0,General Surgery Service,61.2546,271
+RTK,NULL,0,-6,0,Plastic Surgery Service,100,17
+RTK,38.7,-2.830345842,17,0,Respiratory Medicine Service,52.7835,970
+RTK,16.4,-1.647851679,-25,0,Rheumatology Service,93.6759,253
+RTP,40.6,6.923076923,12,0,General Internal Medicine Service,46.6667,90
+RTP,36.4,3.13782944,11,0,Other - Other Services,73.743,358
+RTP,38.1,0.168176343,36,0,Rheumatology Service,65.4362,894
+RTR,29.3,-2.541244931,-25,0,Cardiothoracic Surgery Service,76.8595,242
+RTR,16.7,0,0,0,Elderly Medicine Service,93.8776,49
+RTR,13.1,-1.501668521,8,0,General Internal Medicine Service,96.7742,124
+RTR,26.7,5.738213715,12,0,Other - Other Services,84.8816,549
+RTX,15.4,0.634920635,10,0,Cardiothoracic Surgery Service,97.7778,45
+RTX,20.2,4.570556936,3,0,Dermatology Service,90.8273,556
+RTX,16.8,0.191751329,-11,0,Elderly Medicine Service,94.012,167
+RTX,14.4,4.782608696,28,0,General Internal Medicine Service,95,120
+RTX,32.7,-7.094372253,-132,0,Other - Other Services,83.7975,395
+RTX,11.2,-2.255319149,-3,0,Plastic Surgery Service,95.7447,47
+RTX,23.2,-3.112046753,49,0,Respiratory Medicine Service,80.9426,488
+RTX,19.1,-0.244739756,55,0,Rheumatology Service,90.1429,700
+RVJ,8.6,0,1,0,Cardiothoracic Surgery Service,100,22
+RVJ,20.9,-0.188347965,4,0,Elderly Medicine Service,83.2402,179
+RVJ,36.8,-15.7683892,38,0,Gastroenterology Service,54.1793,993
+RVJ,NULL,0,0,0,General Internal Medicine Service,100,1
+RVJ,38.2,-1.566904786,-37,0,General Surgery Service,52.4804,766
+RVJ,14.7,-0.457875458,64,0,Other - Other Services,97.619,168
+RVJ,NULL,0,5,0,Other - Paediatric Services,100,13
+RVJ,23.7,-2.454029569,15,0,Rheumatology Service,80.9019,754
+RVR,39.5,1.210826211,9,0,Elderly Medicine Service,63.2479,117
+RVR,20.3,3.162417701,-67,0,Other - Other Services,88.6609,926
+RVR,41.7,6.293533285,9,0,Other - Surgical Services,67.9214,611
+RVR,30.3,7.176470588,9,0,Plastic Surgery Service,91.1765,34
+RVR,29,-0.185096319,39,0,Rheumatology Service,79.1252,503
+RVV,16,3.111111111,7,0,Cardiothoracic Surgery Service,92,25
+RVV,26.2,-1.222336593,31,0,Elderly Medicine Service,85.3448,232
+RVV,31.3,-3.806756479,-31,0,Other - Other Services,82.1138,246
+RVV,20.3,-0.725037299,-53,0,Other - Paediatric Services,90.2736,658
+RVW,21.1,-0.274296128,-24,0,Cardiology Service,88.1988,644
+RVW,18.9,-3.66726297,-27,0,Elderly Medicine Service,89.9225,129
+RVW,16.2,2.16417118,-4,0,General Internal Medicine Service,93.4884,215
+RVW,26.1,-0.655999789,35,0,Rheumatology Service,75.7042,568
+RW1,15.1,2.330369938,44,0,Cardiology Service,98.2818,291
+RW1,6.2,3.333333333,8,0,Ear Nose and Throat Service,100,68
+RW1,10.1,0,4,0,Elderly Medicine Service,100,24
+RW1,13.2,-0.25999563,31,0,Gastroenterology Service,95.2174,230
+RW1,11,0.160113452,70,0,General Internal Medicine Service,99.5951,247
+RW1,8.3,1.382716049,12,0,Other - Medical Services,99.3827,162
+RW1,10.8,1.020903468,-24,0,Other - Mental Health Services,94.6058,241
+RW1,6.3,0,18,0,Other - Paediatric Services,100,21
+RW1,13.7,1.176470588,-6,0,Other - Surgical Services,100,79
+RW1,6.5,0,13,0,Respiratory Medicine Service,100,49
+RW1,8.6,0,27,0,Rheumatology Service,100,79
+RW4,18.9,-4.540763674,-6,0,Other - Mental Health Services,90.1961,51
+RW5,18.7,0.584580315,107,0,Rheumatology Service,88.7202,461
+RWA,26.6,-5.238095238,-15,0,Elderly Medicine Service,70,90
+RWA,24,-0.973310125,-23,0,General Internal Medicine Service,79.4444,360
+RWA,NULL,-3.804347826,-15,0,Other - Mental Health Services,87.5,8
+RWA,41,6.366685835,-52,0,Rheumatology Service,65.0901,888
+RWD,NULL,56.81818182,-39,0,Cardiothoracic Surgery Service,100,5
+RWD,18.6,9.682288672,-14,0,Elderly Medicine Service,90.4255,282
+RWD,41.7,-0.196277652,-13,0,General Internal Medicine Service,48.3051,354
+RWE,35.6,-2.501845476,-17,0,Cardiothoracic Surgery Service,65.9609,614
+RWE,21.2,0.230298586,-13,0,Elderly Medicine Service,89.9654,289
+RWE,8.5,8.069224902,-4,0,General Internal Medicine Service,97.4093,193
+RWE,30,-30.32131148,64,0,Neurosurgical Service,66.4,125
+RWF,15.5,5.570652174,9,0,Cardiothoracic Surgery Service,96.875,32
+RWF,15.4,-0.978336827,-2,0,Elderly Medicine Service,97.1698,106
+RWF,NULL,0,0,0,General Internal Medicine Service,100,1
+RWF,NULL,0,3,0,Other - Other Services,100,4
+RWF,15.8,15.14712237,-36,0,Rheumatology Service,94.2085,518
+RWG,17.2,-1.994680851,1,0,Elderly Medicine Service,93.75,48
+RWG,15.3,-1.349855432,44,0,General Internal Medicine Service,95.539,269
+RWG,NULL,0,3,0,Other - Mental Health Services,100,7
+RWG,12.9,0.840336134,10,0,Other - Other Services,100,248
+RWG,23.1,-0.357645734,-6,0,Rheumatology Service,84.717,530
+RWH,20.4,3.64187095,1,0,Cardiothoracic Surgery Service,88.1657,169
+RWH,21.2,-5.986277873,4,0,Elderly Medicine Service,83.6364,110
+RWH,12.5,0.332577265,100,0,General Internal Medicine Service,99.6132,517
+RWH,10.8,1.39331605,52,0,Neurology Service,96.0573,558
+RWJ,NULL,14.28571429,-4,0,Cardiothoracic Surgery Service,100,3
+RWJ,10.8,-1.149425287,-28,0,Elderly Medicine Service,98.8506,87
+RWJ,NULL,7.142857143,-3,0,General Internal Medicine Service,50,4
+RWJ,19.8,3.703703704,0,0,Oral Surgery Service,85.1852,27
+RWJ,54.7,1.046535998,5,0,Other - Other Services,42.4628,471
+RWJ,24.1,4.716765646,21,0,Other - Paediatric Services,88.6364,220
+RWJ,60.3,1.436152291,13,0,Other - Surgical Services,35.9375,384
+RWJ,45.7,2.558060109,-16,0,Respiratory Medicine Service,56.0417,960
+RWP,NULL,-10,0,0,Elderly Medicine Service,90,10
+RWP,36.1,-1.054262461,-8,0,General Internal Medicine Service,68.2403,233
+RWP,30.2,4.17162277,3,0,Other - Paediatric Services,84.5455,110
+RWP,27.9,5.923720277,-23,0,Rheumatology Service,80.0296,676
+RWW,18.6,20.42740415,-25,0,Elderly Medicine Service,90.6977,86
+RWW,17.4,-1.069100391,6,0,General Internal Medicine Service,93.8462,65
+RWW,42.6,6.807054584,-10,0,Other - Other Services,54.7112,658
+RWX,11.2,0.99009901,-3,0,Other - Paediatric Services,100,98
+RWY,19.4,6.554307116,-7,0,Elderly Medicine Service,89.8876,89
+RWY,26.4,-2.465331279,-26,0,General Internal Medicine Service,63.6364,33
+RWY,15,0.04950495,2,0,Other - Other Services,95.0495,202
+RWY,36,3.552452257,-10,0,Plastic Surgery Service,53.6982,676
+RWY,24,2.192111707,48,0,Respiratory Medicine Service,80.9361,876
+RX1,22.9,4.030637073,-11,0,Cardiothoracic Surgery Service,87.4172,302
+RX1,36.4,-0.157029035,76,0,Elderly Medicine Service,55.5425,848
+RX1,25.9,1.685948871,12,0,Neurosurgical Service,79.0773,932
+RX1,29.1,-0.345131842,44,0,Rheumatology Service,67.2152,790
+RX4,14.4,-0.471588713,4,0,Other - Other Services,97.9899,199
+RXC,18.9,-6.05945122,5,0,Elderly Medicine Service,89.0625,128
+RXC,26.5,-1.038961039,9,0,General Internal Medicine Service,81.8182,44
+RXC,26.1,-4.972584951,-2,0,Other - Paediatric Services,69.5783,332
+RXC,15.7,-0.854820723,24,0,Rheumatology Service,94.0916,677
+RXF,26,2.245826137,128,0,Dermatology Service,84.1111,900
+RXF,28,7.039586919,-26,0,Elderly Medicine Service,75.7143,140
+RXF,4.5,3.225806452,-6,0,General Internal Medicine Service,100,25
+RXF,46.2,5.191220632,61,0,Other - Other Services,73.5736,333
+RXF,30.9,-3.31438891,93,0,Other - Paediatric Services,68.3274,562
+RXF,34.9,1.511144979,36,0,Rheumatology Service,57.8831,907
+RXK,NULL,1.25,1,0,Cardiothoracic Surgery Service,81.25,16
+RXK,11.3,0,0,0,Elderly Medicine Service,98.1818,55
+RXK,45.4,-1.606792738,-64,0,Other - Other Services,63.2754,403
+RXK,42.5,-2.885560319,-23,0,Plastic Surgery Service,31.5036,419
+RXK,20,-1.479416574,70,0,Rheumatology Service,87.4776,559
+RXL,42.8,0.298061439,-3,0,Cardiothoracic Surgery Service,61.9968,621
+RXL,14.1,-0.188964475,-5,0,Elderly Medicine Service,97.9592,49
+RXL,30.5,2.266056924,-7,0,Other - Paediatric Services,79.9058,637
+RXL,15.9,1.258581236,30,0,Plastic Surgery Service,94.7368,76
+RXL,22.7,-4.853535644,77,0,Respiratory Medicine Service,80.8399,762
+RXL,37.7,-0.44798951,40,0,Rheumatology Service,56.3702,832
+RXN,27,1.936563083,41,0,Elderly Medicine Service,82.8283,198
+RXN,50.5,-6.658811207,11,0,General Surgery Service,42.2886,201
+RXN,22.9,5.26642583,1,0,Other - Other Services,87.7907,516
+RXP,16.2,-3.287646199,22,0,Elderly Medicine Service,93.2749,342
+RXP,15.2,6.90421748,-5,0,Other - Medical Services,96.748,123
+RXP,30.6,1.207401596,-58,0,Rheumatology Service,69.6894,805
+RXQ,12.8,0,-9,0,Elderly Medicine Service,100,121
+RXQ,38.8,-3.168219547,-58,0,Oral Surgery Service,61.0805,907
+RXQ,14.3,18.84948053,318,0,Other - Other Services,98.2906,819
+RXR,9.5,-1.612903226,14,0,Elderly Medicine Service,98.3871,62
+RXR,NULL,0,3,0,General Internal Medicine Service,100,6
+RXR,12,3.692307692,-1,0,Other - Other Services,96,25
+RXR,33.5,-1.864657108,-15,0,Rheumatology Service,62.7291,982
+RXW,31.2,-4.884792627,4,0,Cardiothoracic Surgery Service,62.8571,35
+RXW,10.5,-0.925925926,12,0,Elderly Medicine Service,99.0741,108
+RXW,56.3,-1.83496279,-48,0,Other - Surgical Services,25.974,308
+RY6,20.9,-4.415954416,-24,0,Gynaecology Service,48.1481,54
+RYJ,29.4,0.609153966,14,0,Elderly Medicine Service,73.4007,297
+RYJ,32.3,-4.774265319,-27,0,General Internal Medicine Service,56.7164,134
+RYJ,18,0.635062848,-3,0,Other - Other Services,91.9708,274
+RYJ,33.5,4.873346918,-45,0,Rheumatology Service,65.2643,927
+RYR,19.6,-9.045504994,-4,0,Cardiothoracic Surgery Service,85.2941,102
+RYR,40.6,2.266594711,-3,0,Elderly Medicine Service,66.9725,218
+RYR,NULL,10,1,0,General Internal Medicine Service,100,11
+RYR,51.8,-1.919749081,-16,0,Neurosurgical Service,46.2687,536
+RYW,25.6,2.178821179,15,0,Other - Mental Health Services,78.3217,715
+RYW,24.1,2.881300725,-11,0,Trauma and Orthopaedic Service,72.5564,266
+RYY,10.1,-0.531291359,-23,0,Other - Medical Services,99.2248,387
+TAD,39.8,-1.830048987,-77,0,Other - Medical Services,65.5311,499
