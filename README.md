@@ -305,6 +305,7 @@ This dataset contained:
 # Orange Machine Learning Workflow
 
 Orange Data Mining was used to build and evaluate machine learning models.
+(orange_workflow.png.png)
 
 ---
 
@@ -362,6 +363,36 @@ Purpose:
 ## Step 4 - Machine Learning Models
 
 The following models were trained:
+Three machine learning models were evaluated using Orange Data Mining:
+
+- Logistic Regression
+- Random Forest
+- Decision Tree
+
+Evaluation was performed using:
+- AUC
+- Classification Accuracy (CA)
+- F1 Score
+- Precision
+- Recall
+- MCC
+
+### Model Performance Results
+
+| Model | AUC | Accuracy | F1 Score | Precision | Recall | MCC |
+|---|---|---|---|---|---|---|
+| Logistic Regression | 0.893 | 0.797 | 0.800 | 0.822 | 0.797 | 0.604 |
+| Random Forest | 0.925 | 0.866 | 0.865 | 0.865 | 0.866 | 0.710 |
+| Decision Tree | 0.806 | 0.846 | 0.846 | 0.846 | 0.846 | 0.670 |
+
+### Final Model Selection
+
+Random Forest achieved the highest:
+- AUC score
+- Accuracy
+- MCC score
+
+Due to its stronger predictive performance, Random Forest was selected as the final prediction model for RTT breach forecasting.
 
 ### Random Forest
 
@@ -434,7 +465,7 @@ The dashboard included:
 ---
 
 # Dashboard Visuals
-
+(dashboard_preview.png-2.png)
 ## RTT Breach Risk Distribution
 
 Pie chart showing:
